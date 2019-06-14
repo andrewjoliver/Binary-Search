@@ -40,6 +40,6 @@ class Solution{
 	}
 	public static void main(String[] args){
 		int[] nums = {1, 3, 7, 19, 25, 29, 35};
-		System.out.println(findNumElementsGreaterThanK(nums, 2));
+		System.out.println(findNumElementsGreaterThanK(nums, 29));
 	}
 }
